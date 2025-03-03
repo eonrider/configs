@@ -1,0 +1,11 @@
+user_pref("keyword.enabled", true);
+user_pref("signon.rememberSignons", false);
+user_pref("browser.urlbar.suggest.history", false);
+user_pref("browser.urlbar.suggest.bookmark", false);
+user_pref("browser.urlbar.suggest.openpage", false);
+user_pref("browser.urlbar.suggest.topsites", false);
+user_pref("browser.urlbar.maxRichResults", 0);
+user_pref("browser.urlbar.autoFill", false);
+user_pref("places.history.enabled", false);
+user_pref("extensions.pocket.enabled", false);
+user_pref("identity.fxaccounts.enabled", false);
